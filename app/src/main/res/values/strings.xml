@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio  MonsterCreator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_del_monstruo">Nombre del monstruo</string>
+    <string name="puntos_de_monstruo">Puntos de monstruo</string>
+    <string name="link_de_la_imagen">Link de la imagen</string>
+    <string name="crear_monstruo">Crear monstruo</string>
+    <string name="borrar_monstruos">Borrar monstruos</string>
+</resources>
